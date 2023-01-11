@@ -1,6 +1,5 @@
 
-# Methodology-  I have created 5 custom tables from the database below, 4 lookup tables and 1 payments table and exported them individually as CSV files into Power Query. 
-
+# Created 5 custom tables from the database below and exported them individually as CSV files into Power Query. 
     
     
 USE mavenmovies;
