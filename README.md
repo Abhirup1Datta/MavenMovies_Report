@@ -3,5 +3,6 @@ The aim of the project is to analyze the Revenue and Customer data for the Maven
 Using standard data normalization practices, created 5 tables in MySQL from the Database and imported the tables into PowerBI via Power Query.
 Added relationships between tables to create a variety of visualizations that provide an in-depth product and customer base summary.
 
-##Screenshot##
-![Screenshot](https://user-images.githubusercontent.com/103647085/211757393-59ab8f4e-e66e-477f-a99a-a54e0ca41fba.JPG)
+### Screenshot: ###
+![Screenshot](https://user-images.githubusercontent.com/103647085/211760484-2891c9fe-8f09-428b-9e23-bdc42738daa8.JPG)
+
