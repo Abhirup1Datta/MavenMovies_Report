@@ -4,7 +4,7 @@
     
 USE mavenmovies;
 
-# Product lookup query: contains product description data
+# Product table: contains product description data
 SELECT
 	film.film_id as product_id,
     inventory.inventory_id,
@@ -36,7 +36,7 @@ GROUP BY
     
     
     
-# Customer Lookup Query: contains customer description data
+# Customer Table: contains customer description data
  SELECT 
 	customer.customer_id,
 	customer.active,
@@ -62,7 +62,7 @@ LEFT JOIN country
 GROUP BY customer_id;
 
 
-# Staff Lookup table: contains staff desctiption data
+# Staff Table: contains staff desctiption data
 
 SELECT 
 	staff_id,
@@ -74,7 +74,7 @@ SELECT
 FROM staff;
 	
 
-# Rental Lookup Table; contains film rental data
+# Rental Table; contains film rental data
 SELECT *
 FROM rental;
 
