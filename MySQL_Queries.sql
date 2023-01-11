@@ -5,7 +5,7 @@
     
 USE mavenmovies;
 
-# Product Table contains product description data
+# Product Table: contains product description data
 SELECT
 	film.film_id as product_id,
     inventory.inventory_id,
