@@ -1,9 +1,9 @@
 # MavenMovies_Report
 The aim of the project is to analyze the Revenue and Customer data for the MavenMovies movie rental business database using MySQL and create an interactive report using PowerBI. 
 The aim of the project is to analyze the Revenue and Customer data for the MavenMovies movie rental business database using MySQL and create an interactive report using PowerBI.
-###Methodology###
+### Methodology ###
 Using standard data normalization practices 5 tables were created in MySQL from the data and then imported into PowerBI via Power Query. Added relationships between tables to create a variety of visualizations that provide an in-depth product and customer base summary.
-###Tools Used###
+### Tools Used ###
 Python
 MySQL
 ### Screenshot: ###
